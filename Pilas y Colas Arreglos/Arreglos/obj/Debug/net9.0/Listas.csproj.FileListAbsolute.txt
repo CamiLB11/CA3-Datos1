@@ -1,0 +1,28 @@
+c:\Users\h.perez.1\Desktop\Pilas y Colas en Listas\Listas\bin\Debug\net9.0\Listas.exe
+C:\Users\h.perez.1\Desktop\Pilas y Colas en Listas\Listas\bin\Debug\net9.0\Listas.deps.json
+C:\Users\h.perez.1\Desktop\Pilas y Colas en Listas\Listas\bin\Debug\net9.0\Listas.runtimeconfig.json
+c:\Users\h.perez.1\Desktop\Pilas y Colas en Listas\Listas\bin\Debug\net9.0\Listas.dll
+c:\Users\h.perez.1\Desktop\Pilas y Colas en Listas\Listas\bin\Debug\net9.0\Listas.pdb
+c:\Users\h.perez.1\Desktop\Pilas y Colas en Listas\Listas\obj\Debug\net9.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\h.perez.1\Desktop\Pilas y Colas en Listas\Listas\obj\Debug\net9.0\Listas.AssemblyInfoInputs.cache
+c:\Users\h.perez.1\Desktop\Pilas y Colas en Listas\Listas\obj\Debug\net9.0\Listas.AssemblyInfo.cs
+c:\Users\h.perez.1\Desktop\Pilas y Colas en Listas\Listas\obj\Debug\net9.0\Listas.csproj.CoreCompileInputs.cache
+c:\Users\h.perez.1\Desktop\Pilas y Colas en Listas\Listas\obj\Debug\net9.0\Listas.dll
+c:\Users\h.perez.1\Desktop\Pilas y Colas en Listas\Listas\obj\Debug\net9.0\refint\Listas.dll
+c:\Users\h.perez.1\Desktop\Pilas y Colas en Listas\Listas\obj\Debug\net9.0\Listas.pdb
+C:\Users\h.perez.1\Desktop\Pilas y Colas en Listas\Listas\obj\Debug\net9.0\Listas.genruntimeconfig.cache
+C:\Users\h.perez.1\Desktop\Pilas y Colas en Listas\Listas\obj\Debug\net9.0\ref\Listas.dll
+C:\Users\lizan\Downloads\Pilas y Colas en arreglos\Pilas y Colas en arreglos\Arreglos\bin\Debug\net9.0\Listas.exe
+C:\Users\lizan\Downloads\Pilas y Colas en arreglos\Pilas y Colas en arreglos\Arreglos\bin\Debug\net9.0\Listas.deps.json
+C:\Users\lizan\Downloads\Pilas y Colas en arreglos\Pilas y Colas en arreglos\Arreglos\bin\Debug\net9.0\Listas.runtimeconfig.json
+C:\Users\lizan\Downloads\Pilas y Colas en arreglos\Pilas y Colas en arreglos\Arreglos\bin\Debug\net9.0\Listas.dll
+C:\Users\lizan\Downloads\Pilas y Colas en arreglos\Pilas y Colas en arreglos\Arreglos\bin\Debug\net9.0\Listas.pdb
+C:\Users\lizan\Downloads\Pilas y Colas en arreglos\Pilas y Colas en arreglos\Arreglos\obj\Debug\net9.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizan\Downloads\Pilas y Colas en arreglos\Pilas y Colas en arreglos\Arreglos\obj\Debug\net9.0\Listas.AssemblyInfoInputs.cache
+C:\Users\lizan\Downloads\Pilas y Colas en arreglos\Pilas y Colas en arreglos\Arreglos\obj\Debug\net9.0\Listas.AssemblyInfo.cs
+C:\Users\lizan\Downloads\Pilas y Colas en arreglos\Pilas y Colas en arreglos\Arreglos\obj\Debug\net9.0\Listas.csproj.CoreCompileInputs.cache
+C:\Users\lizan\Downloads\Pilas y Colas en arreglos\Pilas y Colas en arreglos\Arreglos\obj\Debug\net9.0\Listas.dll
+C:\Users\lizan\Downloads\Pilas y Colas en arreglos\Pilas y Colas en arreglos\Arreglos\obj\Debug\net9.0\refint\Listas.dll
+C:\Users\lizan\Downloads\Pilas y Colas en arreglos\Pilas y Colas en arreglos\Arreglos\obj\Debug\net9.0\Listas.pdb
+C:\Users\lizan\Downloads\Pilas y Colas en arreglos\Pilas y Colas en arreglos\Arreglos\obj\Debug\net9.0\Listas.genruntimeconfig.cache
+C:\Users\lizan\Downloads\Pilas y Colas en arreglos\Pilas y Colas en arreglos\Arreglos\obj\Debug\net9.0\ref\Listas.dll

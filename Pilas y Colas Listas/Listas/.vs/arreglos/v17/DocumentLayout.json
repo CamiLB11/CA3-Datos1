@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lizan\\Downloads\\Pilas y Colas en arreglos\\Pilas y Colas arreglos\\Listas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD70B641-07B8-453B-BBCB-335FE5A44299}|..\\pruebasunitarias_listascolaspilas\\pruebasunitarias_listascolaspilas.csproj|c:\\users\\lizan\\downloads\\pilas y colas en arreglos\\pilas y colas arreglos\\pruebasunitarias_listascolaspilas\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBADEA1-A5D4-550C-10DB-169F9B6AB0F9}|arreglos.csproj|c:\\users\\lizan\\downloads\\pilas y colas en arreglos\\pilas y colas arreglos\\listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBADEA1-A5D4-550C-10DB-169F9B6AB0F9}|arreglos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\lizan\\Downloads\\Pilas y Colas en arreglos\\Pilas y Colas arreglos\\pruebasunitarias_listascolaspilas\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "..\\pruebasunitarias_listascolaspilas\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\lizan\\Downloads\\Pilas y Colas en arreglos\\Pilas y Colas arreglos\\pruebasunitarias_listascolaspilas\\MSTestSettings.cs",
+              "RelativeToolTip": "..\\pruebasunitarias_listascolaspilas\\MSTestSettings.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T03:52:01.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lizan\\Downloads\\Pilas y Colas en arreglos\\Pilas y Colas arreglos\\Listas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lizan\\Downloads\\Pilas y Colas en arreglos\\Pilas y Colas arreglos\\Listas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T02:45:51.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

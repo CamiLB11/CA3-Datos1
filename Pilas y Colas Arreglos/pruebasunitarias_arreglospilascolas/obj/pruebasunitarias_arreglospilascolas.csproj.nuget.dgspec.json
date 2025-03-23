@@ -1,0 +1,154 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lizan\\Downloads\\Pilas y Colas en listas\\Pilas y Colas en arreglos\\pruebasunitarias_listaspilascolas\\pruebasunitarias_arreglospilascolas.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lizan\\Downloads\\Pilas y Colas en listas\\Pilas y Colas en arreglos\\Arreglos\\Arreglos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lizan\\Downloads\\Pilas y Colas en listas\\Pilas y Colas en arreglos\\Arreglos\\Arreglos.csproj",
+        "projectName": "Arreglos",
+        "projectPath": "C:\\Users\\lizan\\Downloads\\Pilas y Colas en listas\\Pilas y Colas en arreglos\\Arreglos\\Arreglos.csproj",
+        "packagesPath": "C:\\Users\\lizan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lizan\\Downloads\\Pilas y Colas en listas\\Pilas y Colas en arreglos\\Arreglos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lizan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lizan\\Downloads\\Pilas y Colas en listas\\Pilas y Colas en arreglos\\pruebasunitarias_listaspilascolas\\pruebasunitarias_arreglospilascolas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lizan\\Downloads\\Pilas y Colas en listas\\Pilas y Colas en arreglos\\pruebasunitarias_listaspilascolas\\pruebasunitarias_arreglospilascolas.csproj",
+        "projectName": "pruebasunitarias_arreglospilascolas",
+        "projectPath": "C:\\Users\\lizan\\Downloads\\Pilas y Colas en listas\\Pilas y Colas en arreglos\\pruebasunitarias_listaspilascolas\\pruebasunitarias_arreglospilascolas.csproj",
+        "packagesPath": "C:\\Users\\lizan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lizan\\Downloads\\Pilas y Colas en listas\\Pilas y Colas en arreglos\\pruebasunitarias_listaspilascolas\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lizan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0-windows7.0": {
+            "targetAlias": "net9.0-windows",
+            "projectReferences": {
+              "C:\\Users\\lizan\\Downloads\\Pilas y Colas en listas\\Pilas y Colas en arreglos\\Arreglos\\Arreglos.csproj": {
+                "projectPath": "C:\\Users\\lizan\\Downloads\\Pilas y Colas en listas\\Pilas y Colas en arreglos\\Arreglos\\Arreglos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "dependencies": {
+            "MSTest": {
+              "target": "Package",
+              "version": "[3.6.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

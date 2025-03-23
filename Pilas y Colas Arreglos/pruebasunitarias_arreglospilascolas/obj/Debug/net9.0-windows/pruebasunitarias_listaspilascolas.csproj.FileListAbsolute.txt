@@ -1,0 +1,6 @@
+C:\Users\lizan\Downloads\Pilas y Colas en arreglos\Pilas y Colas en arreglos\pruebasunitarias_listaspilascolas\bin\Debug\net9.0-windows\.msCoverageSourceRootsMapping_pruebasunitarias_listaspilascolas
+C:\Users\lizan\Downloads\Pilas y Colas en arreglos\Pilas y Colas en arreglos\pruebasunitarias_listaspilascolas\obj\Debug\net9.0-windows\pruebasunitarias_listaspilascolas.csproj.AssemblyReference.cache
+C:\Users\lizan\Downloads\Pilas y Colas en arreglos\Pilas y Colas en arreglos\pruebasunitarias_listaspilascolas\obj\Debug\net9.0-windows\pruebasunitarias_listaspilascolas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizan\Downloads\Pilas y Colas en arreglos\Pilas y Colas en arreglos\pruebasunitarias_listaspilascolas\obj\Debug\net9.0-windows\pruebasunitarias_listaspilascolas.AssemblyInfoInputs.cache
+C:\Users\lizan\Downloads\Pilas y Colas en arreglos\Pilas y Colas en arreglos\pruebasunitarias_listaspilascolas\obj\Debug\net9.0-windows\pruebasunitarias_listaspilascolas.AssemblyInfo.cs
+C:\Users\lizan\Downloads\Pilas y Colas en arreglos\Pilas y Colas en arreglos\pruebasunitarias_listaspilascolas\obj\Debug\net9.0-windows\pruebasunitarias_listaspilascolas.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\lizan\Downloads\Pilas y Colas en listas\Pilas y Colas en arreglos\Arreglos\bin\Debug\net9.0\Arreglos.exe
+C:\Users\lizan\Downloads\Pilas y Colas en listas\Pilas y Colas en arreglos\Arreglos\bin\Debug\net9.0\Arreglos.deps.json
+C:\Users\lizan\Downloads\Pilas y Colas en listas\Pilas y Colas en arreglos\Arreglos\bin\Debug\net9.0\Arreglos.runtimeconfig.json
+C:\Users\lizan\Downloads\Pilas y Colas en listas\Pilas y Colas en arreglos\Arreglos\bin\Debug\net9.0\Arreglos.dll
+C:\Users\lizan\Downloads\Pilas y Colas en listas\Pilas y Colas en arreglos\Arreglos\bin\Debug\net9.0\Arreglos.pdb
+C:\Users\lizan\Downloads\Pilas y Colas en listas\Pilas y Colas en arreglos\Arreglos\obj\Debug\net9.0\Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizan\Downloads\Pilas y Colas en listas\Pilas y Colas en arreglos\Arreglos\obj\Debug\net9.0\Arreglos.AssemblyInfoInputs.cache
+C:\Users\lizan\Downloads\Pilas y Colas en listas\Pilas y Colas en arreglos\Arreglos\obj\Debug\net9.0\Arreglos.AssemblyInfo.cs
+C:\Users\lizan\Downloads\Pilas y Colas en listas\Pilas y Colas en arreglos\Arreglos\obj\Debug\net9.0\Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\lizan\Downloads\Pilas y Colas en listas\Pilas y Colas en arreglos\Arreglos\obj\Debug\net9.0\Arreglos.dll
+C:\Users\lizan\Downloads\Pilas y Colas en listas\Pilas y Colas en arreglos\Arreglos\obj\Debug\net9.0\refint\Arreglos.dll
+C:\Users\lizan\Downloads\Pilas y Colas en listas\Pilas y Colas en arreglos\Arreglos\obj\Debug\net9.0\Arreglos.pdb
+C:\Users\lizan\Downloads\Pilas y Colas en listas\Pilas y Colas en arreglos\Arreglos\obj\Debug\net9.0\Arreglos.genruntimeconfig.cache
+C:\Users\lizan\Downloads\Pilas y Colas en listas\Pilas y Colas en arreglos\Arreglos\obj\Debug\net9.0\ref\Arreglos.dll

@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lizan\\Downloads\\Pilas y Colas en listas\\Pilas y Colas en arreglos\\Arreglos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED34DCF6-8F2C-4C38-8553-66FD2172BCCD}|..\\pruebasunitarias_listaspilascolas\\pruebasunitarias_arreglospilascolas.csproj|c:\\users\\lizan\\downloads\\pilas y colas en listas\\pilas y colas en arreglos\\pruebasunitarias_listaspilascolas\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1074F42A-7F38-0A8F-6CD9-2C7622659008}|Listas.csproj|c:\\users\\lizan\\downloads\\pilas y colas en listas\\pilas y colas en arreglos\\arreglos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1074F42A-7F38-0A8F-6CD9-2C7622659008}|Listas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lizan\\Downloads\\Pilas y Colas en arreglos\\Pilas y Colas en arreglos\\pruebasunitarias_listaspilascolas\\MSTestSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\lizan\\Downloads\\Pilas y Colas en listas\\Pilas y Colas en arreglos\\pruebasunitarias_listaspilascolas\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "..\\pruebasunitarias_listaspilascolas\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\lizan\\Downloads\\Pilas y Colas en listas\\Pilas y Colas en arreglos\\pruebasunitarias_listaspilascolas\\MSTestSettings.cs",
+              "RelativeToolTip": "..\\pruebasunitarias_listaspilascolas\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T03:48:46.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lizan\\Downloads\\Pilas y Colas en listas\\Pilas y Colas en arreglos\\Arreglos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lizan\\Downloads\\Pilas y Colas en listas\\Pilas y Colas en arreglos\\Arreglos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAANsAAAAAAAAAAAAAAPEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T03:44:59.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\lizan\\Downloads\\Pilas y Colas en arreglos\\Pilas y Colas en arreglos\\pruebasunitarias_listaspilascolas\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Pilas y Colas en arreglos\\Pilas y Colas en arreglos\\pruebasunitarias_listaspilascolas\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\lizan\\Downloads\\Pilas y Colas en arreglos\\Pilas y Colas en arreglos\\pruebasunitarias_listaspilascolas\\MSTestSettings.cs",
+              "RelativeToolTip": "..\\..\\..\\Pilas y Colas en arreglos\\Pilas y Colas en arreglos\\pruebasunitarias_listaspilascolas\\MSTestSettings.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T03:10:35.114Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
